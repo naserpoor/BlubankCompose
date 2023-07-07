@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BlubankCompose</string>
+
+    <string name="deposit_gift">سود سپرده</string>
+    <string name="atm">برداشت</string>
+    <string name="fee">کارمزد</string>
+    <string name="remittance_transfer">انتقال سپرده</string>
+
+    <string name="amount_in_rials">%s ریال</string>
+    <string name="date_time_format">%s، %s %s %s %5$02d:%6$02d</string>
+    <string name="account_balance">موجودی</string>
+    <string name="home">خانه</string>
+    <string name="add_to_account">شارژ حساب</string>
+    <string name="spaces">باکس</string>
+    <string name="economic_management">مدیریت مالی</string>
+</resources>
